@@ -11,7 +11,7 @@ app = FastAPI(title="CoinAtlas API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # затем ограничишь
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -33,7 +33,7 @@ def list_coins(
     query = db.query(Coin)
     if section_id is not None:
         query = query.filter(Coin.section_id == section_id)
-    coins = query.order_by(Coin.DT).all()  # сортировка по дате, потом заменим на год
+    coins = query.order_by(Coin.DT).all()
     return coins
 
 

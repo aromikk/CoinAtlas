@@ -3,7 +3,7 @@ import pandas as pd
 from .database import SessionLocal
 from .models import Section, Coin
 
-EXCEL_PATH = "data/coins.xlsx"  # путь относительно корня backend
+EXCEL_PATH = "data/coins.xlsx"
 
 
 def main():
@@ -11,7 +11,6 @@ def main():
 
     db = SessionLocal()
     try:
-        # Пока сделаем один раздел "all" для всех монет.
         section = db.query(Section).filter_by(code="all").first()
         if section is None:
             section = Section(
@@ -20,13 +19,13 @@ def main():
                 subtitle=None,
             )
             db.add(section)
-            db.flush()  # чтобы у section появился id
+            db.flush()
 
         for _, row in df.iterrows():
             coin = Coin(
                 section_id=section.id,
 
-                DT=str(row.get("DT") or ""),           # ПОДГОНЯЙ имена столбцов под свой xlsx
+                DT=str(row.get("DT") or ""),
                 cname=str(row.get("cname") or ""),
 
                 sname=str(row.get("sname") or "") if "sname" in row and not pd.isna(row["sname"]) else None,

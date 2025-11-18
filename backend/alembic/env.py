@@ -3,8 +3,8 @@ from sqlalchemy import engine_from_config, pool
 
 from alembic import context
 
-from app.database import Base, engine  # наш Base и engine
-from app import models  # чтобы Alembic знал модели
+from app.database import Base, engine
+from app import models
 
 
 config = context.config
