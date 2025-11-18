@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres:16
+    container_name: coinatlas-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: coinatlas
+      POSTGRES_PASSWORD: coinatlas_password
+      POSTGRES_DB: coinatlas
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
