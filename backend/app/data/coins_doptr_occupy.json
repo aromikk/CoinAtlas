@@ -1,0 +1,52 @@
+[
+  {
+    "source_url": "https://www.raritetus.ru/stoimost-monet/dopetrovskie/shvedskaya-okkupaciya-novgoroda/kopejka/kopejka-shvedskoj-okkupacii-novgoroda-1611-1617-nrgi-242593/",
+    "group": "parser_doptr_occupy",
+    "title": "копейка шведской оккупации Новгорода 1611-1617 годов, НРГI",
+    "nominal": "копейка шведской оккупации Новгорода",
+    "year": null,
+    "name": "",
+    "series": "",
+    "variety_desc": "НРГI",
+    "letters": "",
+    "edge": "",
+    "quality": "",
+    "mintage": "",
+    "material": "Серебро",
+    "weight_g": null,
+    "diameter_mm": null,
+    "thickness_mm": null,
+    "catalogs": [
+      "Сводка номеров №326, 327 по каталогу Клещинова, Гришина; №332, 333 по каталогу Гришина, Клещинова, Храменкова"
+    ],
+    "image_obverse": "https://static.raritetus.ru/storage/coins/242593/avers/400x400.jpg?1569507714",
+    "image_reverse": "https://static.raritetus.ru/storage/coins/242593/revers/400x400.jpg?1569507714",
+    "desc_obverse": "Всадник в царском венце на скачущем коне, вправо, держит опущенное копье, за спиной развевается плащ, под конем буквы НРГI.",
+    "desc_reverse": "Надпись в шесть строк, содержащая имя и титул правителя. Над словами Царь и Князь титло - \"Царь и Великий Князь Василий Иванович Всея Руси\":\nЦРЬIВЕ\nЛIКИIКНSЬ\nВАСIЛЕIИВА\nНОВIЧЬВСЕ\nѦРУСИI"
+  },
+  {
+    "source_url": "https://www.raritetus.ru/stoimost-monet/dopetrovskie/shvedskaya-okkupaciya-novgoroda/kopejka/kopejka-shvedskoj-okkupacii-novgoroda-1611-1617-242592/",
+    "group": "parser_doptr_occupy",
+    "title": "копейка шведской оккупации Новгорода 1611-1617 годов, РIN",
+    "nominal": "копейка шведской оккупации Новгорода",
+    "year": null,
+    "name": "",
+    "series": "",
+    "variety_desc": "РIN",
+    "letters": "",
+    "edge": "",
+    "quality": "",
+    "mintage": "",
+    "material": "Серебро",
+    "weight_g": null,
+    "diameter_mm": null,
+    "thickness_mm": null,
+    "catalogs": [
+      "Сводка номеров №325 по каталогу Клещинова, Гришина; №330, 331 по каталогу Гришина, Клещинова, Храменкова"
+    ],
+    "image_obverse": "https://static.raritetus.ru/storage/coins/242592/avers/400x400.jpg?1569507714",
+    "image_reverse": "https://static.raritetus.ru/storage/coins/242592/revers/400x400.jpg?1569507714",
+    "desc_obverse": "Всадник в царском венце на идущем шагом коне, вправо, держит опущенное копье, за спиной развевается плащ, под конем буквы РIN.",
+    "desc_reverse": "Надпись в шесть строк, содержащая имя и титул правителя. Над словами Царь и Князь титло - \"Царь и Великий Князь Василий Иванович Всея Руси\":\nЦРЬIВЕ\nЛIКИIКНSЬ\nВАСIЛЕIИВА\nНОВIЧЬВСЕ\nѦРУСИI"
+  }
+]
