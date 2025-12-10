@@ -1,0 +1,17 @@
+*.gitignore filter=lfs diff=lfs merge=lfs -text
+/LICENSE filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
+*.ini filter=lfs diff=lfs merge=lfs -text
+/backend/alembic/README filter=lfs diff=lfs merge=lfs -text
+*.py filter=lfs diff=lfs merge=lfs -text
+*.mako filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+*.ndjson filter=lfs diff=lfs merge=lfs -text
+*.yml filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+/frontend/CHANGELOG filter=lfs diff=lfs merge=lfs -text
+/frontend/LICENSE filter=lfs diff=lfs merge=lfs -text
+*.rst filter=lfs diff=lfs merge=lfs -text
+*.toml filter=lfs diff=lfs merge=lfs -text
+*.un~ filter=lfs diff=lfs merge=lfs -text
+/frontend/src/CoinAtlas/resources/README filter=lfs diff=lfs merge=lfs -text

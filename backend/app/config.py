@@ -1,22 +1,3 @@
-from pydantic_settings import BaseSettings
-
-
-class Settings(BaseSettings):
-    db_host: str = "localhost"
-    db_port: int = 5432
-    db_user: str = "coinatlas"
-    db_password: str = "coinatlas_password"
-    db_name: str = "coinatlas"
-
-    @property
-    def database_url(self) -> str:
-        return (
-            f"postgresql+psycopg2://{self.db_user}:{self.db_password}"
-            f"@{self.db_host}:{self.db_port}/{self.db_name}"
-        )
-
-    class Config:
-        env_file = ".env"
-
-
-settings = Settings()
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c0b7696f6af16387f7df2ef57c4f4853d4f8ada6c77e12357b03d525d7cd6c9
+size 514
