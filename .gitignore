@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f46105b4b221913748f154beb03f9e2bd14566d7c9ec0fb588dd60792aa069cf
-size 120
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+**/__pycache__/
+*.pyc
+*.pyo
+*.egg
+.gitattributes
