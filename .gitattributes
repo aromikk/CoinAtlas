@@ -15,3 +15,9 @@
 *.toml filter=lfs diff=lfs merge=lfs -text
 *.un~ filter=lfs diff=lfs merge=lfs -text
 /frontend/src/CoinAtlas/resources/README filter=lfs diff=lfs merge=lfs -text
+*.DS_Store filter=lfs diff=lfs merge=lfs -text
+*.log filter=lfs diff=lfs merge=lfs -text
+*.pyc filter=lfs diff=lfs merge=lfs -text
+/frontend/src/coinatlas.dist-info/INSTALLER filter=lfs diff=lfs merge=lfs -text
+/frontend/src/coinatlas.dist-info/METADATA filter=lfs diff=lfs merge=lfs -text
+/frontend/src/coinatlas.dist-info/WHEEL filter=lfs diff=lfs merge=lfs -text
