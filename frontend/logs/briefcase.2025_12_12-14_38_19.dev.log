@@ -1,0 +1,371 @@
+Date/Time:       2025-12-12 14:38:19 
+Command line:    /Users/godfrey/frontend/.venv/bin/briefcase dev
+
+OS Release:      Darwin 25.1.0
+OS Version:      Darwin Kernel Version 25.1.0: Mon Oct 20 19:34:05 PDT 2025; root:xnu-12377.41.6~2/RELEASE_ARM64_T6041
+Architecture:    arm64
+Platform:        macOS-26.1-arm64-arm-64bit-Mach-O
+
+Python exe:      /Users/godfrey/frontend/.venv/bin/python3
+Python version:  3.13.7 (main, Aug 14 2025, 11:12:11) [Clang 17.0.0 (clang-1700.0.13.3)]
+Virtual env:     True
+Conda env:       False
+
+Briefcase:       0.3.26
+Target platform: macOS
+Target format:   app
+
+Environment Variables:
+	CLICOLOR_FORCE=1
+	COLORTERM=truecolor
+	GREP_OPTIONS=--color=auto
+	HOME=/Users/godfrey
+	HOMEBREW_CELLAR=/opt/homebrew/Cellar
+	HOMEBREW_PREFIX=/opt/homebrew
+	HOMEBREW_REPOSITORY=/opt/homebrew
+	INFOPATH=/opt/homebrew/share/info:
+	LANG=ru_RU.UTF-8
+	LOGNAME=godfrey
+	LS_COLORS=rs=0:di=01;35:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.7z=01;31:*.ace=01;31:*.alz=01;31:*.apk=01;31:*.arc=01;31:*.arj=01;31:*.bz=01;31:*.bz2=01;31:*.cab=01;31:*.cpio=01;31:*.crate=01;31:*.deb=01;31:*.drpm=01;31:*.dwm=01;31:*.dz=01;31:*.ear=01;31:*.egg=01;31:*.esd=01;31:*.gz=01;31:*.jar=01;31:*.lha=01;31:*.lrz=01;31:*.lz=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.lzo=01;31:*.pyz=01;31:*.rar=01;31:*.rpm=01;31:*.rz=01;31:*.sar=01;31:*.swm=01;31:*.t7z=01;31:*.tar=01;31:*.taz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tgz=01;31:*.tlz=01;31:*.txz=01;31:*.tz=01;31:*.tzo=01;31:*.tzst=01;31:*.udeb=01;31:*.war=01;31:*.whl=01;31:*.wim=01;31:*.xz=01;31:*.z=01;31:*.zip=01;31:*.zoo=01;31:*.zst=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.jxl=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:
+	OLDPWD=/Users/godfrey/frontend/coinatlas/src/coinatlas
+	OSLogRateLimit=64
+	PATH=/Users/godfrey/frontend/.venv/bin:/opt/homebrew/opt/llvm/bin:/opt/homebrew/opt/coreutils/libexec/gnubin:/opt/homebrew/bin:/opt/homebrew/sbin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/pmk/env/global/bin
+	PS1=(.venv) %F{green}%n@%m%f:%F{magenta}%~%f$ 
+	PWD=/Users/godfrey/frontend/coinatlas
+	SHELL=/bin/zsh
+	SHLVL=1
+	SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.kfREXmabpj/Listeners
+	TERM=xterm-256color
+	TERM_PROGRAM=Apple_Terminal
+	TERM_PROGRAM_VERSION=465
+	TERM_SESSION_ID=8B429CB1-BB0D-4024-8D61-B49255353B75
+	TMPDIR=/var/folders/1d/xhl17lvn3nn81njqz57r_7lc0000gn/T/
+	USER=godfrey
+	VIRTUAL_ENV=/Users/godfrey/frontend/.venv
+	VIRTUAL_ENV_PROMPT=.venv
+	XPC_FLAGS=0x0
+	XPC_SERVICE_NAME=0
+	_=/Users/godfrey/frontend/.venv/bin/briefcase
+	__CFBundleIdentifier=com.apple.Terminal
+	__CF_USER_TEXT_ENCODING=0x1F5:0x7:0x31
+
+pyproject.toml:
+# This project was generated with 0.3.26 using template: https://github.com/beeware/briefcase-template @ v0.3.26
+[tool.briefcase]
+project_name = "CoinAtlas"
+bundle = "com.example"
+version = "0.0.1"
+url = "https://example.com/coinatlas"
+license.file = "LICENSE"
+author = "Professor Moriarty"
+author_email = "professor@example.com"
+
+[tool.briefcase.app.coinatlas]
+formal_name = "CoinAtlas"
+description = "App for tracking your collection"
+long_description = """More details about the app should go here.
+"""
+sources = [
+    "src/coinatlas",
+]
+
+test_sources = [
+    "tests",
+]
+
+requires = [
+    "toga>=0.4.9",
+    "httpx",
+    "cryptography",
+]
+
+test_requires = [
+    "pytest",
+]
+
+[tool.briefcase.app.coinatlas.macOS]
+universal_build = true
+requires = [
+    "toga-cocoa~=0.5.0",
+    "std-nslog~=1.0.3",
+]
+
+[tool.briefcase.app.coinatlas.linux]
+requires = [
+    "toga-gtk~=0.5.0",
+    # PyGObject 3.52.1 enforces a requirement on libgirepository-2.0-dev. This library
+    # isn't available on Debian 12/Ubuntu 22.04. If you don't need to support those (or
+    # older) releases, you can remove this version pin. See beeware/toga#3143.
+    "pygobject < 3.52.1",
+]
+
+[tool.briefcase.app.coinatlas.linux.system.debian]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "libcairo2-dev",
+    # One of the following two packages are needed to compile PyGObject wheel. If you
+    # remove the pygobject pin in the requires list, you should also change to the
+    # version 2.0 of the girepository library. See beeware/toga#3143.
+    "libgirepository1.0-dev",
+    # "libgirepository-2.0-dev",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK and its GI bindings
+    "gir1.2-gtk-3.0",
+    # One of the following two packages are needed to use PyGObject at runtime. If you
+    # remove the pygobject pin in the requires list, you should also change to the
+    # version 2.0 of the girepository library. See beeware/toga#3143.
+    "libgirepository-1.0-1",
+    # "libgirepository-2.0-0",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3-module",
+    # Needed to provide WebKit2 at runtime
+    # Note: Debian 11 requires gir1.2-webkit2-4.0 instead
+    # "gir1.2-webkit2-4.1",
+]
+
+[tool.briefcase.app.coinatlas.linux.system.rhel]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-gobject-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+]
+
+system_runtime_requires = [
+    # Needed to support Python bindings to GTK
+    "gobject-introspection",
+    # Needed to provide GTK
+    "gtk3",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3",
+    # Needed to provide WebKit2 at runtime
+    # "webkit2gtk3",
+]
+
+[tool.briefcase.app.coinatlas.linux.system.suse]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK
+    "gtk3",
+    # Needed to support Python bindings to GTK
+    "gobject-introspection", "typelib(Gtk) = 3.0",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3-module",
+    # Needed to provide WebKit2 at runtime
+    # "libwebkit2gtk3", "typelib(WebKit2)",
+]
+
+[tool.briefcase.app.coinatlas.linux.system.arch]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection",
+    # Runtime dependencies that need to exist so that the
+    # Arch package passes final validation.
+    # Needed to provide GTK
+    "gtk3",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra",
+    # Needed to provide WebKit2
+    # "webkit2gtk",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK
+    "gtk3",
+    # Needed to provide PyGObject bindings
+    "gobject-introspection-runtime",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra",
+    # Needed to provide WebKit2 at runtime
+    # "webkit2gtk",
+]
+
+[tool.briefcase.app.coinatlas.linux.appimage]
+manylinux = "manylinux_2_28"
+
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-gobject-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+    # Needed to provide GTK
+    "gtk3-devel",
+    # Dependencies that GTK looks for at runtime, that need to be
+    # in the build environment to be picked up by linuxdeploy
+    "libcanberra-gtk3",
+    "PackageKit-gtk3-module",
+    "gvfs-client",
+]
+
+linuxdeploy_plugins = [
+    "DEPLOY_GTK_VERSION=3 gtk",
+]
+
+[tool.briefcase.app.coinatlas.linux.flatpak]
+flatpak_runtime = "org.gnome.Platform"
+flatpak_runtime_version = "48"
+flatpak_sdk = "org.gnome.Sdk"
+
+[tool.briefcase.app.coinatlas.windows]
+requires = [
+    "toga-winforms~=0.5.0",
+]
+
+# Mobile deployments
+[tool.briefcase.app.coinatlas.iOS]
+requires = [
+    "toga-iOS~=0.5.0",
+    "std-nslog~=1.0.3",
+]
+
+[tool.briefcase.app.coinatlas.android]
+requires = [
+    "toga-android~=0.5.0",
+]
+
+base_theme = "Theme.MaterialComponents.Light.DarkActionBar"
+
+build_gradle_dependencies = [
+    "com.google.android.material:material:1.13.0",
+    # Needed for DetailedList
+    # "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0",
+    # Needed for MapView
+    # "org.osmdroid:osmdroid-android:6.1.20",
+]
+
+# Web deployments
+[tool.briefcase.app.coinatlas.web]
+requires = [
+    "toga-web~=0.5.0",
+]
+
+Briefcase Log:
+[14:38:19]                                                                                                                                                                dev.py:320
+           [coinatlas] Starting in dev mode...                                                                                                                            dev.py:320
+                                                                                                                                                                   subprocess.py:839
+           >>> Running Command:                                                                                                                                    subprocess.py:839
+           >>>     /Users/godfrey/frontend/.venv/bin/python3 -c 'import runpy, sys;sys.path.pop(0);sys.argv.extend([]);runpy.run_module("coinatlas",               subprocess.py:839
+           run_name="__main__", alter_sys=True)'                                                                                                                                    
+           >>> Working Directory:                                                                                                                                  subprocess.py:839
+           >>>     /Users/godfrey                                                                                                                                  subprocess.py:839
+           >>> Environment Overrides:                                                                                                                              subprocess.py:839
+           >>>     PYTHONPATH=/Users/godfrey/frontend/coinatlas/src                                                                                                subprocess.py:839
+           >>>     PYTHONUNBUFFERED=1                                                                                                                              subprocess.py:839
+           >>>     PYTHONDEVMODE=1                                                                                                                                 subprocess.py:839
+           >>>     PYTHONUTF8=1                                                                                                                                    subprocess.py:839
+           ===========================================================================                                                                                    run.py:175
+           Traceback (most recent call last):                                                                                                                      subprocess.py:196
+             File "<string>", line 1, in <module>                                                                                                                  subprocess.py:196
+               import runpy, sys;sys.path.pop(0);sys.argv.extend([]);runpy.run_module("coinatlas", run_name="__main__", alter_sys=True)                            subprocess.py:196
+                                                                     ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                            subprocess.py:196
+             File "<frozen runpy>", line 226, in run_module                                                                                                        subprocess.py:196
+             File "<frozen runpy>", line 98, in _run_module_code                                                                                                   subprocess.py:196
+             File "<frozen runpy>", line 88, in _run_code                                                                                                          subprocess.py:196
+             File "/Users/godfrey/frontend/coinatlas/src/coinatlas/__main__.py", line 1, in <module>                                                               subprocess.py:196
+               from coinatlas.app import main                                                                                                                      subprocess.py:196
+             File "/Users/godfrey/frontend/coinatlas/src/coinatlas/app.py", line 11, in <module>                                                                   subprocess.py:196
+               from coinatlas.config import API_BASE_URL, API_HTTP_TIMEOUT                                                                                         subprocess.py:196
+           ImportError: cannot import name 'API_HTTP_TIMEOUT' from 'coinatlas.config' (/Users/godfrey/frontend/coinatlas/src/coinatlas/config.py)                  subprocess.py:196
+                                                                                                                                                                      __main__.py:42
+           Problem running app coinatlas.                                                                                                                             __main__.py:43
+           Saving log... started                                                                                                                                      console.py:443
+
+Main thread traceback:
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ /Users/godfrey/frontend/.venv/lib/python3.13/site-packages/briefcase/__main__.py:27 in main                                                                                      │
+│                                                                                                                                                                                  │
+│   24 │   │   │   Path.cwd() / "pyproject.toml",                                                                                                                                  │
+│   25 │   │   │   overrides=overrides,                                                                                                                                            │
+│   26 │   │   )                                                                                                                                                                   │
+│ ❱ 27 │   │   command(**options)                                                                                                                                                  │
+│   28 │   except HelpText as e:                                                                                                                                                   │
+│   29 │   │   console.info()                                                                                                                                                      │
+│   30 │   │   console.info(str(e))                                                                                                                                                │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────── locals ─────────────────────────────────────────────────────────╮                                                      │
+│ │       command = <briefcase.platforms.macOS.app.macOSAppDevCommand object at 0x1093941a0>                                │                                                      │
+│ │       console = <briefcase.console.Console object at 0x1079738c0>                                                       │                                                      │
+│ │             e = BriefcaseCommandError('Problem running app coinatlas.')                                                 │                                                      │
+│ │ extra_cmdline = []                                                                                                      │                                                      │
+│ │       options = {'appname': None, 'update_requirements': False, 'run_app': True, 'test_mode': False, 'passthrough': []} │                                                      │
+│ │     overrides = {}                                                                                                      │                                                      │
+│ │        result = 200                                                                                                     │                                                      │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                      │
+│                                                                                                                                                                                  │
+│ /Users/godfrey/frontend/.venv/lib/python3.13/site-packages/briefcase/commands/dev.py:321 in __call__                                                                             │
+│                                                                                                                                                                                  │
+│   318 │   │   │   │   │   )                                                                                                                                                      │
+│   319 │   │   │   │   else:                                                                                                                                                      │
+│   320 │   │   │   │   │   self.console.info("Starting in dev mode...", prefix=app.app_name)                                                                                      │
+│ ❱ 321 │   │   │   │   return self.run_dev_app(                                                                                                                                   │
+│   322 │   │   │   │   │   app,                                                                                                                                                   │
+│   323 │   │   │   │   │   env=self.get_environment(app),                                                                                                                         │
+│   324 │   │   │   │   │   venv=venv,                                                                                                                                             │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────── locals ─────────────────────────────────────────────────╮                                                                     │
+│ │                 app = <com.example.coinatlas v0.0.1 AppConfig>                                           │                                                                     │
+│ │             appname = None                                                                               │                                                                     │
+│ │             options = {}                                                                                 │                                                                     │
+│ │         passthrough = []                                                                                 │                                                                     │
+│ │             run_app = True                                                                               │                                                                     │
+│ │                self = <briefcase.platforms.macOS.app.macOSAppDevCommand object at 0x1093941a0>           │                                                                     │
+│ │           test_mode = False                                                                              │                                                                     │
+│ │ update_requirements = False                                                                              │                                                                     │
+│ │                venv = <briefcase.integrations.virtual_environment.NoOpVenvContext object at 0x1093967b0> │                                                                     │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                     │
+│                                                                                                                                                                                  │
+│ /Users/godfrey/frontend/.venv/lib/python3.13/site-packages/briefcase/commands/dev.py:190 in run_dev_app                                                                          │
+│                                                                                                                                                                                  │
+│   187 │   │   │   )                                                                                                                                                              │
+│   188 │   │   │                                                                                                                                                                  │
+│   189 │   │   │   # Start streaming logs for the app.                                                                                                                            │
+│ ❱ 190 │   │   │   self._stream_app_logs(                                                                                                                                         │
+│   191 │   │   │   │   app,                                                                                                                                                       │
+│   192 │   │   │   │   popen=app_popen,                                                                                                                                           │
+│   193 │   │   │   │   clean_output=False,                                                                                                                                        │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────────────────────────────── locals ─────────────────────────────────────────────────────────────────────────╮                     │
+│ │         app = <com.example.coinatlas v0.0.1 AppConfig>                                                                                                   │                     │
+│ │   app_popen = <Popen: returncode: 1 args: ['/Users/godfrey/frontend/.venv/bin/python3', '-...>                                                           │                     │
+│ │     cmdline = ['/Users/godfrey/frontend/.venv/bin/python3', '-c', 'import runpy, sys;sys.path.pop(0);sys.argv.extend([]);runpy.run_module("coinatla'+40] │                     │
+│ │         env = {'PYTHONPATH': '/Users/godfrey/frontend/coinatlas/src', 'PYTHONUNBUFFERED': '1', 'PYTHONDEVMODE': '1', 'PYTHONUTF8': '1'}                  │                     │
+│ │     env_key = 'PYTHONUTF8'                                                                                                                               │                     │
+│ │   env_value = '1'                                                                                                                                        │                     │
+│ │ main_module = 'coinatlas'                                                                                                                                │                     │
+│ │     options = {}                                                                                                                                         │                     │
+│ │ passthrough = []                                                                                                                                         │                     │
+│ │        self = <briefcase.platforms.macOS.app.macOSAppDevCommand object at 0x1093941a0>                                                                   │                     │
+│ │        venv = <briefcase.integrations.virtual_environment.NoOpVenvContext object at 0x1093967b0>                                                         │                     │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                     │
+│                                                                                                                                                                                  │
+│ /Users/godfrey/frontend/.venv/lib/python3.13/site-packages/briefcase/commands/run.py:206 in _stream_app_logs                                                                     │
+│                                                                                                                                                                                  │
+│   203 │   │   │   │   # If we're monitoring an actual app (not just a log stream),                                                                                               │
+│   204 │   │   │   │   # and the app didn't exit cleanly, surface the error to the user.                                                                                          │
+│   205 │   │   │   │   if popen.poll() != 0:                                                                                                                                      │
+│ ❱ 206 │   │   │   │   │   raise BriefcaseCommandError(f"Problem running app {app.app_name}.")                                                                                    │
+│   207 │   │                                                                                                                                                                      │
+│   208 │   │   except KeyboardInterrupt:                                                                                                                                          │
+│   209 │   │   │   pass  # Catch CTRL-C to exit normally                                                                                                                          │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ─────────────────────────────────────────────╮                                                                              │
+│ │          app = <com.example.coinatlas v0.0.1 AppConfig>                                         │                                                                              │
+│ │ clean_filter = None                                                                             │                                                                              │
+│ │ clean_output = False                                                                            │                                                                              │
+│ │   log_filter = <briefcase.commands.run.LogFilter object at 0x109396e40>                         │                                                                              │
+│ │   log_stream = False                                                                            │                                                                              │
+│ │        popen = <Popen: returncode: 1 args: ['/Users/godfrey/frontend/.venv/bin/python3', '-...> │                                                                              │
+│ │         self = <briefcase.platforms.macOS.app.macOSAppDevCommand object at 0x1093941a0>         │                                                                              │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+BriefcaseCommandError: Problem running app coinatlas.
