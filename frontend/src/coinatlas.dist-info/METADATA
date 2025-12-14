@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.26
+Name: coinatlas
+Formal-Name: CoinAtlas
+App-ID: com.example.coinatlas
+Version: 0.0.1
+Home-page: https://example.com/coinatlas
+Download-URL: https://example.com/coinatlas
+Author: Professor Moriarty
+Author-email: professor@example.com
+Summary: App for tracking your collection
