@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ef4f8e824429261fe81be59a7eb6903b3930e9a5e9b9f3bb8460b7214678db73
-size 120
+Put any application resources (e.g., icons and resources) here;
+they can be referenced in code as "resources/filename".

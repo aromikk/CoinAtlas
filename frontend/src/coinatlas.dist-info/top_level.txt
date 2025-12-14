@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26cef71a8a3670a49a2d1bf5e1946c06836a92da48b6eaa439daafaee254f5fc
-size 10
+coinatlas

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc8890f453a89372e2681f88559d5b46dc836f79a7f052fdd3c6e5db07cde878
-size 322
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.26
+Name: coinatlas
+Formal-Name: CoinAtlas
+App-ID: com.example.coinatlas
+Version: 0.0.1
+Home-page: https://example.com/coinatlas
+Download-URL: https://example.com/coinatlas
+Author: Professor Moriarty
+Author-email: professor@example.com
+Summary: App for tracking your collection

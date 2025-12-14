@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b1bf682df93c0d1e1c1cf695cb1cd09ce0428ad2b80407047968aaa885450f20
-size 69
+# CoinAtlas Release Notes
+
+## 0.0.1 (11 Dec 2025)
+
+* Initial release
